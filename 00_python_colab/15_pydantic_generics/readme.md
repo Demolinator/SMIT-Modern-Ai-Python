@@ -1,0 +1,1 @@
+# [Modern Python - Lesson 15: Pydantic & Generics](https://colab.research.google.com/drive/15nZDVUsTrXcIU3pyqaWtg0kPXWbmiJrh?usp=sharing)
